@@ -45,6 +45,31 @@ body{background:var(--bg);color:var(--text);line-height:1.6}
 .project-body h3{font-size:1rem;margin-bottom:8px}
 .project-body p{color:var(--muted);font-size:0.95rem}
 .muted{color:var(--muted);font-size:0.85rem}
+.reports-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.reports-list li {
+  background: #f8fafc;
+  border: 1px solid #e5e7eb;
+  padding: 10px 14px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.reports-list a {
+  color: var(--accent);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.reports-list a:hover {
+  text-decoration: underline;
+}
 
 
 /* Skills */
@@ -70,4 +95,5 @@ body{background:var(--bg);color:var(--text);line-height:1.6}
 @media (max-width:800px){
 .hero{grid-template-columns:1fr}
 .nav{display:none}
+
 }

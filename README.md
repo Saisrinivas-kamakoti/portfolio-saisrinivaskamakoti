@@ -65,7 +65,7 @@ A comprehensive season-by-season analysis of all IPL editions — covering team 
 ---
 
 ### ☕ Chai-rista Dashboard — Café Sales & Revenue Intelligence
-**[View Project](#)** *"C:\Users\bhara\Downloads\Chai-Rista dashboard sneek peak.png"*
+**[View Project](#)** *https://github.com/Saisrinivas-kamakoti/portfolio-saisrinivaskamakoti/blob/main/Chai-Rista%20dashboard%20sneek%20peak.png*
 
 **Overview:**  
 An interactive Power BI dashboard tracking sales performance, revenue trends, and customer footfall for a café business, embedded via HTML for easy web access.

@@ -48,7 +48,7 @@ A real-time ball-by-ball match analysis system built from **personally recorded 
 ---
 
 ### 🏆 IPL Overall Analysis — 2008 to 2025
-**[View Project](#)** *"C:\Users\bhara\Downloads\IPL overall analysis.pdf"*
+**[View Project](#)** *https://github.com/Saisrinivas-kamakoti/portfolio-saisrinivaskamakoti/blob/main/IPL%20overall%20analysis.ipynb*
 
 **Overview:**  
 A comprehensive season-by-season analysis of all IPL editions — covering team performance, win rates, toss trends, venue advantages, and how the game has evolved over 17 seasons.

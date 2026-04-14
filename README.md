@@ -32,7 +32,7 @@ Built a machine learning model to predict the bid prices of cricketers in the IP
 ---
 
 ### 🏏 Cricket Match Analysis — Ball-by-Ball Intelligence
-**[View Project](#)** *"C:\Users\bhara\Downloads\Cricket Analysis.pdf"*
+**[View Project](#)** *https://github.com/Saisrinivas-kamakoti/portfolio-saisrinivaskamakoti/blob/main/Cricket%20Analysis.ipynb*
 
 **Overview:**  
 A real-time ball-by-ball match analysis system built from **personally recorded JSON data** while watching the match live. Automatically determines the winner, best performer, and the exact turning point of the match.

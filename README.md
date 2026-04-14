@@ -1,6 +1,6 @@
 # 📁 Saisrinivas Kamakoti — Analytics Portfolio
 
-> A collection of data science, machine learning, and business analytics projects with a focus on finance, pricing intelligence, and data-driven decision making.
+> A collection of data science, machine learning, and business analytics projects with a focus on finance, sports analytics, and data-driven decision making.
 
 ---
 
@@ -23,7 +23,7 @@ Built a machine learning model to predict the bid prices of cricketers in the IP
 
 **Key Highlights:**
 - 🎯 Framed as a regression problem with player statistics as features
-- 🤖 Applied and compared multiple ML models (e.g., Random Forest, Gradient Boosting, Linear Regression)
+- 🤖 Applied and compared multiple ML models (Random Forest, Gradient Boosting, Linear Regression)
 - 💡 Identified top predictors of player value — batting average, strike rate, wickets taken
 - 📊 Visualised auction price distributions across player categories
 
@@ -31,11 +31,60 @@ Built a machine learning model to predict the bid prices of cricketers in the IP
 
 ---
 
+### 🏏 Cricket Match Analysis — Ball-by-Ball Intelligence
+**[View Project](#)** *"C:\Users\bhara\Downloads\Cricket Analysis.pdf"*
+
+**Overview:**  
+A real-time ball-by-ball match analysis system built from **personally recorded JSON data** while watching the match live. Automatically determines the winner, best performer, and the exact turning point of the match.
+
+**Key Highlights:**
+- 📝 Unique hand-crafted dataset — ball-by-ball JSON recorded live during the match
+- 🔄 Turning point detection using rolling run-rate and wicket cluster analysis
+- 🌟 Best performer algorithm scoring both batting and bowling contributions
+- 📈 Run progression charts comparing both innings visually
+
+**Tools:** Python · JSON · Pandas · Matplotlib · Jupyter Notebook
+
+---
+
+### 🏆 IPL Overall Analysis — 2008 to 2025
+**[View Project](#)** *"C:\Users\bhara\Downloads\IPL overall analysis.pdf"*
+
+**Overview:**  
+A comprehensive season-by-season analysis of all IPL editions — covering team performance, win rates, toss trends, venue advantages, and how the game has evolved over 17 seasons.
+
+**Key Highlights:**
+- 📊 Win rate analysis for all franchises across 17 seasons
+- 📈 Scoring trends — average first innings runs rising ~15% over the IPL era
+- 🏠 Home advantage quantified across all major venues
+- 🔥 Head-to-head heatmap of all team matchups
+- 🏅 All-time top performers by runs, wickets, and Player of the Match awards
+
+**Tools:** Python · Pandas · Matplotlib · Seaborn · Jupyter Notebook
+
+---
+
+### ☕ Chai-rista Dashboard — Café Sales & Revenue Intelligence
+**[View Project](#)** *"C:\Users\bhara\Downloads\Chai-Rista dashboard sneek peak.png"*
+
+**Overview:**  
+An interactive Power BI dashboard tracking sales performance, revenue trends, and customer footfall for a café business, embedded via HTML for easy web access.
+
+**Key Highlights:**
+- 👣 Footfall heatmap by hour and day of week to identify peak periods
+- 💰 Revenue breakdown by category (drinks, food, snacks) with trend lines
+- ☕ Best and least-performing menu items by volume and revenue
+- 📈 Month-on-month growth tracking with KPI cards
+
+**Tools:** Power BI · DAX · HTML · CSS · Excel
+
+---
+
 ### 📊 Business Analytics Dissertation
 **[View Notebook](./Dissertation%20(1)%20(1).ipynb)**
 
 **Overview:**  
-End-to-end dissertation research project applying advanced analytics and machine learning to address a real-world business problem. Covers full pipeline: problem definition → data collection → modelling → insights → recommendations.
+End-to-end dissertation research project applying advanced analytics and machine learning to address a real-world business problem. Covers full pipeline from problem definition to actionable recommendations.
 
 **Key Highlights:**
 - 🔬 Independent academic research with structured methodology
@@ -55,7 +104,7 @@ Exploratory data mining project using Python to uncover hidden patterns, relatio
 
 **Key Highlights:**
 - 🔍 Applied clustering techniques to segment data meaningfully
-- 🔗 Used association rule mining to find item co-occurrence patterns
+- 🔗 Association rule mining for item co-occurrence patterns
 - 📉 Dimensionality reduction for feature analysis
 - 📊 Visualised cluster structures and rule confidence/support metrics
 
@@ -67,13 +116,13 @@ Exploratory data mining project using Python to uncover hidden patterns, relatio
 **[View Report (PDF)](./EDA%20Assignment.pdf)**
 
 **Overview:**  
-Comprehensive Exploratory Data Analysis project that surfaces key business drivers and trends using statistical summaries and rich visualisations.
+Comprehensive Exploratory Data Analysis surfacing key business drivers and trends through statistical summaries and rich visualisations.
 
 **Key Highlights:**
 - 📌 Identified outliers, missing data, and distribution skews
 - 🔥 Correlation heatmaps to surface variable relationships
 - 📊 Visual storytelling with bar charts, box plots, and pair plots
-- 💡 Extracted 3–5 actionable insights from the data
+- 💡 Extracted actionable insights from raw data
 
 **Tools:** Python · Pandas · Seaborn · Matplotlib
 
@@ -86,10 +135,9 @@ Comprehensive Exploratory Data Analysis project that surfaces key business drive
 Collaborative analytics project applying statistical and machine learning techniques to generate business insights from real-world data.
 
 **Key Highlights:**
-- 👥 Team-based project demonstrating collaborative data workflows
+- 👥 Team-based project with collaborative data workflows
 - 🧪 Applied hypothesis testing and statistical inference
 - 🤖 Built predictive models to support business decision-making
-- 📋 Communicated findings through structured reports and visualisations
 
 **Tools:** Python · SciPy · Scikit-learn · Pandas
 
@@ -99,10 +147,10 @@ Collaborative analytics project applying statistical and machine learning techni
 **[View Report (PDF)](./Individual%20Assignment%20(%20220390110%20)%20-%20Jupyter%20Notebook.pdf)**
 
 **Overview:**  
-Independent analytics exercise demonstrating end-to-end predictive modelling capability with clean, structured, and well-documented code.
+Independent analytics exercise demonstrating end-to-end predictive modelling with clean, structured, and well-documented code.
 
 **Key Highlights:**
-- ✅ Structured ML pipeline: data cleaning → feature engineering → modelling → evaluation
+- ✅ Full ML pipeline: data cleaning → feature engineering → modelling → evaluation
 - 📐 Applied regression/classification with performance metrics (RMSE, accuracy, F1)
 - 🗂️ Clean and reproducible notebook with inline commentary
 
@@ -111,15 +159,9 @@ Independent analytics exercise demonstrating end-to-end predictive modelling cap
 ---
 
 ### 🌐 Portfolio Website
-**[Live Site](https://saisrinivas-kamakoti.github.io/portfolio-saisrinivaskamakoti) · [index.html](./index.html) · [style.css](./style.css)**
+**[Live Site](https://saisrinivas-kamakoti.github.io/portfolio-saisrinivaskamakoti)**
 
-**Overview:**  
 Personal portfolio website built from scratch in HTML & CSS, showcasing professional experience, projects, and contact information.
-
-**Key Highlights:**
-- 🎨 Custom CSS design with consistent branding
-- 📄 Multi-page layout: Home · Experience · Projects · Contact
-- 📱 Clean, user-friendly interface
 
 **Tools:** HTML5 · CSS3
 
@@ -131,9 +173,11 @@ Personal portfolio website built from scratch in HTML & CSS, showcasing professi
 |----------|-------|
 | **Languages** | Python, HTML, CSS |
 | **Data & ML** | Pandas, NumPy, Scikit-learn, SciPy, Mlxtend |
-| **Visualisation** | Matplotlib, Seaborn |
+| **Visualisation** | Matplotlib, Seaborn, Power BI |
+| **BI & Dashboards** | Power BI, DAX |
 | **Environment** | Jupyter Notebook, GitHub |
-| **Domains** | Financial Analytics, ML, EDA, Data Mining, Business Intelligence |
+| **Data Formats** | CSV, Excel, JSON |
+| **Domains** | Financial Analytics, Sports Analytics, Business Intelligence, ML, EDA, Data Mining |
 
 ---
 
